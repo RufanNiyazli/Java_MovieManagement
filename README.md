@@ -21,7 +21,8 @@ MovieManagement/
 ## Quraşdırma və İşə Salma
 1. Repozitoriyanı klonlayın:
    ```sh
-   git clone https://github.com/your-repo/MovieManagement.git
+   git clone https://github.com/RufanNiyazli/Java_MovieManagement
+   
    ```
 2. Layihə qovluğuna keçin:
    ```sh
@@ -100,5 +101,5 @@ Inception Successfully added.
 - Java 8+
 
 ## Lisenziya
-Bu layihə MIT Lisenziyası altında yayımlanır.
+Bu layihə açıq mənbəlidir və hər kəs tərəfindən istifadə və dəyişdirilə bilər.
 
